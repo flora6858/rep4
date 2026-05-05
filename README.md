@@ -1,4 +1,3 @@
-# rep4
 # Random Quote Generator 
 **Автор:** [Сулейманов Денис]
 **Язык:** Python 3.x
